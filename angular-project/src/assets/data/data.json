@@ -1,0 +1,27 @@
+ {
+   "rows": [{
+       "ID": "324J24к3",
+       "CARD": "481/YY-П",
+       "LASTNAME": "КРИПЕР",
+       "FIRSTNAME": "CАША",
+       "DOCTYPENAME": "3423444",
+       "IDTASKAUTHSTATUS": 1
+     },
+     {
+       "ID": "122344J313",
+       "CARD": "481/yd/sd1",
+       "LASTNAME": "МАЛАХОВ",
+       "FIRSTNAME": "ДЕНИС",
+       "DOCTYPENAME": "3421444",
+       "IDTASKAUTHSTATUS": 14
+     },
+     {
+       "ID": "91234J313",
+       "CARD": "481/34/sd",
+       "LASTNAME": "ПЕТРОВ",
+       "FIRSTNAME": "ИВАН",
+       "DOCTYPENAME": "4444231",
+       "IDTASKAUTHSTATUS": 11
+     }
+   ]
+ }
